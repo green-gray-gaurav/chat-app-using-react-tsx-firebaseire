@@ -5,5 +5,8 @@
 - main tabs
   
 ![main](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/Screenshot%202023-08-28%20105809.png)
+- main screen
+
+![full ss](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/full_shot_chat.png)
 
 * here is the link -  [click here](https://sample-app-71dda.web.app/)
