@@ -9,4 +9,13 @@
 
 ![full ss](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/full_shot_chat.png)
 
+- dms
+
+![dm](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/dms_chat.png)
+
+- smily face to reply and one can share pics
+
+![reply_media](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/reply_send_media_chat.png)
+
+To use this web app below is the link 
 * here is the link -  [click here](https://sample-app-71dda.web.app/)
