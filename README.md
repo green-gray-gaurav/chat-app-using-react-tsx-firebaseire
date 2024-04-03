@@ -4,18 +4,21 @@
 ### some realted screen shots
 - main tabs
   
-![main](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/Screenshot%202023-08-28%20105809.png)
+
+<img src="https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/Screenshot%202023-08-28%20105809.png" alt="drawing" style="width:200px;"/>
+
 - main screen
 
-![full ss](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/full_shot_chat.png)
+
+<img src="https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/full_shot_chat.png" alt="drawing" style="width:200px;"/>
 
 - dms
 
-![dm](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/dms_chat.png)
+<img src="https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/dms_chat.png" alt="drawing" style="width:200px;"/>
 
 - smily face to reply and one can share pics
 
-![reply_media](https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/reply_send_media_chat.png)
+<img src="https://github.com/green-gray-gaurav/chat-app-using-react-tsx-firebaseire/blob/master/reply_send_media_chat.png" alt="drawing" style="width:200px;"/>
 
 To use this web app below is the link 
 * here is the link -  [click here](https://sample-app-71dda.web.app/)
